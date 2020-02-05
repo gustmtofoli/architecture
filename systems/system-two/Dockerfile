@@ -20,4 +20,4 @@ ENTRYPOINT [ "python3" ]
 
 CMD [ "app.py" ]
 
-EXPOSE 5001
+EXPOSE 5002
